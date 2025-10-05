@@ -13,6 +13,6 @@ showTime();
 function sayBye(name) {
   console.log(`👋 إلى اللقاء ${name}`);
 }
-sayBye("ليبيا");
+sayBye("...");
 
 showTime();
